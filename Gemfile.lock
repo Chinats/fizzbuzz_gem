@@ -15,8 +15,8 @@ PLATFORMS
 DEPENDENCIES
   bundler (~> 1.16)
   fizzbuzz!
-  minitest (~> 5.0)
+  minitest (~> 5.11.3)
   rake (~> 10.0)
 
 BUNDLED WITH
-   1.16.3
+   1.17.1
