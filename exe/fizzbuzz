@@ -1,0 +1,4 @@
+#!ruby
+
+require 'fizzbuzz'
+exit Fizzbuzz::CLI.run(ARGV)

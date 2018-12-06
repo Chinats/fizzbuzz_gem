@@ -4,3 +4,4 @@ require "minitest"
 require "minitest/autorun"
 
 require "fizzbuzz"
+require "fizzbuzz/cli"
